@@ -5,11 +5,11 @@
 
 ### Features:
 
-[x] Running
-[x] Responsive
-[x] Retro looking ( 64*64 pixels ) , thus lightweight -> it weights less than 13kb 
-[ ] Has a gameplay
-[ ] Multiple levels
+-(x) Running
+-(x) Responsive
+-[x] Retro looking ( 64*64 pixels ) , thus lightweight -> it weights less than 13kb 
+-[ ] Has a gameplay
+-[ ] Multiple levels
 
 ### Screenshot:
 
