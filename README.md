@@ -10,6 +10,7 @@
 - [x] Retro looking ( 64*64 pixels ) , thus lightweight -> it weights less than 13kb 
 - [ ] Has a gameplay
 - [ ] Multiple levels
+- [ ] Soundtrack -> it'd be really hard to add a soundtrack from a casual audio file -> I'm currently working on webaudio based sound engine that'll, maybe a day, be alive.   
 
 ### Screenshot:
 
