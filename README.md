@@ -13,8 +13,7 @@
 
 ### Screenshot:
 
-![image](https://github.com/Manerr/Pyxio/assets/56446246/07685ffd-aa08-461b-892b-b4604c9ae601)
-<img src="https://github.com/Manerr/Pyxio/assets/56446246/07685ffd-aa08-461b-892b-b4604c9ae601" alt="drawing" width="200"/>
+<img src="https://github.com/Manerr/Pyxio/assets/56446246/07685ffd-aa08-461b-892b-b4604c9ae601" alt="screenshot" width="200"/>
 
 
 ### Feel free to use under Apache 2.0 conditions : [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0) 
